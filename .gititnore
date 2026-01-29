@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Iconos de carpetas
+Icon
+
+# Archivos temporales de miniaturas
+._*
+
+# Archivos de configuración de carpetas de red/USB
+.Spotlight-V100
+.Trashes
+
+# --- Extras útiles para tu proyecto de JS ---
+node_modules/
+.env
+dist/
